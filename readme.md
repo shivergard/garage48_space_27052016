@@ -55,10 +55,19 @@ Need marketing people - Software developers .
 Capsule to enjoy time in space :DDDDDDD . How we do it in space.
 HR person , Designers . Suite module
 
+#### 17 : Space + Food
+Loose sense see , hear , food. Booring life. Make eating interesting
+ 
+#### 18 : Stabilizer Pad
+Stable AirBed [Electronic enginre]. Stay flat in air
 
+#### 19 : Line in Space
+Remote controll for telescope
+Programming + IOS + Android (Margo was in Minsk 11.2015) 
 
+#### 20 : Drone for Selfies 
 
-
+#### 21 : CostLess 
 
 
 Rohde&Schwarz - 
