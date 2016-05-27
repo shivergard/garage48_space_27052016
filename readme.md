@@ -4,9 +4,16 @@
 
 ## Idea List
 
-## 1 : Two Robots collecting Samples in Space
+## 1 Two Robots collecting Samples in Space
 
-## 2 : 
+## 2 : GumData 
+No dentists in spaces . Detects data what is wrong
+
+## 3 : E-Sail Deorbit Module
+Clean up space derbis . 
+Need : Enginere , Developers , Investors
+
+## 4 : 
 
 
 
