@@ -21,6 +21,15 @@ Case for cameras . Develop case
 #### 6 : Laser show in space
 With telescope make laser show
 
+#### 7 : Hight Voltage to High Speed
+Hight voltage source engine (?)
+
+#### 8 : ICeYE
+Radar photos from space. Decripted data - need to find how to use it. (takes from AirPlains).
+Lot of forrect pictures to analyse
+
+### 9 : 
+
 
 
 
