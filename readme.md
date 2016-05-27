@@ -42,6 +42,18 @@ Need : agronom , web designe , marketing
 #### 12 : FaceMob
 Don't melt your face on bus :P
 
+#### 13 : Deformation detector (no slide)
+Wind information . Caltulate when houses are cracking
+Need software engs + 
+
+#### 14 : Protection against Corrosion in Space using nanoTech
+Need marketing people - Software developers .
+
+#### 15 : CubeCat Antenna
+
+#### 16 : RelationShip in Space 
+Capsule to enjoy time in space :DDDDDDD . How we do it in space.
+HR person , Designers . Suite module
 
 
 
