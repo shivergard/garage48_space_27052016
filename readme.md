@@ -1,6 +1,4 @@
-[Latex Editor](http://www.latexeditor.org/)
-
-[SpaceGarage](http://garage48.org/events/spacetech)
+[Garage48 Space Tech](http://garage48.org/events/spacetech)
 
 # Idea List
 
@@ -45,3 +43,9 @@ Mars , Beer ,  stuff
 
 
 
+
+
+
+#Editing tools :
+[Latex Editor](http://www.latexeditor.org/)
+[Sublime Text 2](http://www.sublimetext.com/2)
