@@ -28,12 +28,21 @@ Hight voltage source engine (?)
 Radar photos from space. Decripted data - need to find how to use it. (takes from AirPlains).
 Lot of forrect pictures to analyse
 
-### 9 : AirsPlint :
+#### 9 : AirsPlint :
 Paramedics on field . AirCups of sevelar  (Act In Space hackaton winner)
 
-### 10 : Space Logbook Space / IoT
+#### 10 : Space Logbook Space / IoT
 detailed info about people in the space. Sensor integration. 
 No idea how to retrieve data.
+
+#### 11 : AgroSpace 
+How to grow food aotonomusly. [Oskars Ozers]
+Need : agronom , web designe , marketing
+
+#### 12 : FaceMob
+Don't melt your face on bus :P
+
+
 
 
 
